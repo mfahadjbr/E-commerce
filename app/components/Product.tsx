@@ -170,7 +170,7 @@ export default function Component() {
       <div className="bg-white shadow-lg rounded-lg overflow-hidden w-full max-w-xs">
         <div className="relative">
           <Image
-            src="/14.crdownload?height=300&width=300&text=Product+Image"
+            src="/14.jpg?height=300&width=300&text=Product+Image"
             alt="Wireless Headphones"
             width={300}
             height={300}
